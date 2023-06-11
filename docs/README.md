@@ -29,24 +29,24 @@ JSBox 从 2.0 开始，提供了对 Node.js 运行时的支持。关于这一部
   > 4. 在 VSCode 打开 JavaScript 文件，点击菜单中的 `Set Host` 选项填入步骤 2 的 HOST
   > 5. 至此，编辑保存 JavaScript 文件之后，将同步运行到 JSBox 应用
 
-- 通过 AirDrop 传输脚本
+- Pass AirDrop Transmission script
 
   > 你可以通过文件分享或 AirDrop 把脚本传输到 JSBox，但你需要手动同步被导入进来的脚本
   > 可以通过类似这个样例的脚本进行同步：https://github.com/cyanzhong/xTeko/blob/master/extension-demos/sync-inbox.js
 
-- 发挥你的创造力，利用 JSBox 提供的接口获取脚本
+- Use your creativity and use the interface provided by JSBox to get scripts
 
-  > 例如这个例子：https://github.com/cyanzhong/xTeko/blob/master/extension-demos/addin-gallery.js
+  > For example, this example：https://github.com/cyanzhong/xTeko/blob/master/extension-demos/addin-gallery.js
 
-# 开源项目
+# Open source projects
 
-为了提供更多的样例代码，我们准备了一个开源项目：https://github.com/cyanzhong/xTeko
+In order to provide more sample code, we have prepared an open source project.：https://github.com/cyanzhong/xTeko
 
-欢迎一起完善这个项目，通过 [提交 Issue](https://github.com/cyanzhong/xTeko/issues/new) 或 [提交 PR](https://github.com/cyanzhong/xTeko/compare) 等贡献方式。
+Welcome to improve this project together, through [Submit Issue](https://github.com/cyanzhong/xTeko/issues/new)Or [submit PR](https://github.com/cyanzhong/xTeko/compare) And other ways of contribution.
 
-# 联系我们
+# Contact Us
 
-对文档有任何疑问都可以通过以下方式联系我们：
+If you have any questions about the document, you can contact us in the following ways:
 
 - Email: [log.e@qq.com](mailto:log.e@qq.com)
 - Weibo: [@StackOverflowError](https://weibo.com/0x00eeee)
@@ -54,4 +54,4 @@ JSBox 从 2.0 开始，提供了对 Node.js 运行时的支持。关于这一部
 
 *准备好了，[快速开始 >](quickstart/intro.md)*
 
-> 此文档目前处于测试阶段，之后可能会有变化，如有错误欢迎指正。
+> This document is currently in the testing stage and may change later. If there is any error, please correct it.
